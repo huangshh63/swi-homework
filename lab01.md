@@ -8,6 +8,6 @@
   
 
 
- ![SARS-Cov](https://en.wikipedia.org/wiki/Severe_acute_respiratory_syndrome#/media/File:Sars-corona.png)
- ![HIV-1](https://en.wikipedia.org/wiki/HIV#/media/File:HIV-budding-Color.jpg)
- ![Ebola](https://en.wikipedia.org/wiki/Ebola_virus_disease#/media/File:Symptoms_of_ebola.png)
+ ![SARS-Cov](https://m.weibo.cn/status/4291138833683798?sourceType=qq&from=108A095010&wm=20005_0002&featurecode=newtitle#&gid=1&pid=3)
+ ![HIV-1](https://m.weibo.cn/status/4291138833683798?sourceType=qq&from=108A095010&wm=20005_0002&featurecode=newtitle#&gid=1&pid=1)
+ ![Ebola](https://m.weibo.cn/status/4291138833683798?sourceType=qq&from=108A095010&wm=20005_0002&featurecode=newtitle#&gid=1&pid=2)
