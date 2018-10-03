@@ -8,6 +8,6 @@
   
 
 
- ![SARS-Cov](https://m.weibo.cn/status/4291138833683798?sourceType=qq&from=108A095010&wm=20005_0002&featurecode=newtitle#&gid=1&pid=3)
- ![HIV-1](https://m.weibo.cn/status/4291138833683798?sourceType=qq&from=108A095010&wm=20005_0002&featurecode=newtitle#&gid=1&pid=1)
- ![Ebola](https://m.weibo.cn/status/4291138833683798?sourceType=qq&from=108A095010&wm=20005_0002&featurecode=newtitle#&gid=1&pid=2)
+ ![SARS-Cov](http://a3.qpic.cn/psb?/V12aKRuu4cvTlT/Nbj5brW2fb5Vf6Eg5mER4hCxJb0qh5QGj7tR8hmeqYY!/m/dDYBAAAAAAAA&bo=qgB5AKoAeQADCSw!&rf=photolist)
+ ![HIV-1](http://a2.qpic.cn/psb?/V12aKRuu4cvTlT/xZCIcYblcgVfqtY9ukuexafKrj*OcSqNgU20hX82zbU!/m/dDUBAAAAAAAA&bo=2wCSANsAkgARCT4!&rf=photolist)
+ ![Ebola](http://a1.qpic.cn/psb?/V12aKRuu4cvTlT/q88youyhjSQl73*dpCMO8V.7UP2HWF0GWe0FN7RDWu0!/m/dAgBAAAAAAAA&bo=IAMoAyADKAMDCSw!&rf=photolist)
