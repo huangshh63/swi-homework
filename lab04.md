@@ -13,3 +13,13 @@ RGB色彩立方体
 表格![表](http://a4.qpic.cn/psb?/V12aKRuu4cvTlT/PHSd*4cwa5dIGGUO.fr3AbuVeigV4BbFFNYjr9P*2u8!/m/dFMBAAAAAAAA&bo=2wE7AgAAAAARB9M!&rf=photolist)理论上由组合原理，总共可以有256^3这么多种颜色，以上只是其中的很小的一部分。 
 RGB包括了RGB555,RGB,RGB565,RGB24,RGB32等表示方法。 
 另外RGB编码应用很广泛，基本上计算机语言都用RGB编码来描述颜色的(引自[CSDN](https://blog.csdn.net/sunyet_sen/article/details/78588126))
+## 彩蛋  
+![1](http://a1.qpic.cn/psb?/V12aKRuu45Vse5/Adtm5TiMmE*QeWA4HQ5odNZtkpYpuRPzuUqmpA3zrPA!/m/dFQBAAAAAAAA&bo=aAHcAWgB3AERCT4!&rf=photolist)
+![1](http://a2.qpic.cn/psb?/V12aKRuu45Vse5/hPcnOAUoRvnNF.kdRmff15tyy0IiQ9s5DdFUz8b.DeE!/m/dFUAAAAAAAAA&bo=YAIcAmACHAIRCT4!&rf=photolist)
+![1](http://a4.qpic.cn/psb?/V12aKRuu45Vse5/txSxOMkgcByHnX9tFVMIIGlvPCqCm*9yL9T62PBLHUg!/m/dDcBAAAAAAAA&bo=gAc4BIAHOAQRCT4!&rf=photolist)
+![1](http://a2.qpic.cn/psb?/V12aKRuu45Vse5/.bdpr79HHCmiza.zJMv4Mgw5bPUgNsEzyNFXn6fsCP4!/m/dC0BAAAAAAAA&bo=gAc4BIAHOAQRCT4!&rf=photolist)
+![1](http://a4.qpic.cn/psb?/V12aKRuu45Vse5/Gp1W3yBXIME8qk8ydMV9NgfbPCJoT8Q8yG.Bb*bRN6E!/m/dDMBAAAAAAAA&bo=gAc4BIAHOAQRCT4!&rf=photolist)
+![1](http://a3.qpic.cn/psb?/V12aKRuu45Vse5/Iw*BSlR1b2Z6nTeouVukX6QuQEdgZbsoS.SSc9f62nM!/m/dFIBAAAAAAAA&bo=9AEYAfQBGAERCT4!&rf=photolist)
+![1](http://a1.qpic.cn/psb?/V12aKRuu45Vse5/LMkE2uySH4ySN4JTWacyQ57th7iTbs01w5o9jWRWhu8!/m/dDABAAAAAAAA&bo=FARMAhQETAIRCT4!&rf=photolist)
+![1](http://a2.qpic.cn/psb?/V12aKRuu45Vse5/*QAAAMlTCNpRRMsGF8lckgpdLIQvKi.XtYOBqjvRS4s!/m/dC0BAAAAAAAA&bo=9AEYAfQBGAERCT4!&rf=photolist)
+![1](http://a1.qpic.cn/psb?/V12aKRuu45Vse5/GAJcxc9E*B5kvgMsr33njjhw6qlW86kXifBVWQmPqI8!/m/dFQBAAAAAAAA&bo=LAGoACwBqAADCSw!&rf=photolist)
