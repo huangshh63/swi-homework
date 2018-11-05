@@ -8,7 +8,7 @@
 4. [04-使用维基百科，解释以下概念&简单回答以下问题](hw04)
 5. [05-作业5gates-circuits](hw05)
 6. [06-Computing Components](hw06)
-
+7. [07-Programming Barely](hw07)
 ## 实验与实践
 
 1. [01-我的 Markdown 博客](lab01)
