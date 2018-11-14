@@ -11,7 +11,7 @@
 
 
 飞机![飞机](http://a4.qpic.cn/psb?/V12aKRuu4cvTlT/1ndnYACvMCCE9GhiYQ30DbPYJGs7EkGsgg3KMK8h9CU!/m/dDcBAAAAAAAA&bo=VwPlAAAAAAARB4E!&rf=photolist)  
-乱跑的足球实则是暗黑大帝的下手![足球](http://a2.qpic.cn/psb?/V12aKRuu4cvTlT/i7j5ljyF5I1Ng1R1Hw.6D0EoNi2RV5FU6058MvN2TUI!/m/dDUBAAAAAAAA&bo=MAAwAAAAAAADByI!&rf=photolist)
+乱跑的足球实则是暗黑大帝的下手.![足球](http://a2.qpic.cn/psb?/V12aKRuu4cvTlT/i7j5ljyF5I1Ng1R1Hw.6D0EoNi2RV5FU6058MvN2TUI!/m/dDUBAAAAAAAA&bo=MAAwAAAAAAADByI!&rf=photolist)
 
 
 
