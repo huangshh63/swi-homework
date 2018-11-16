@@ -7,8 +7,8 @@
 启动winPython并输入命令:python     
 
   
-  ![启动](http://m.qpic.cn/psb?/V12aKRuu4cvTlT/vVFTWHR*NuRY92Gz8eusJJUTjQ0lN3nb9JLIOUYcYXQ!/b/dFMBAAAAAAAA&bo=6QK7AAAAAAADB3I!&rf=viewer_4)
-调用sympy函数库，即输入:form sympy import *  (回车键)
+  ![启动](http://m.qpic.cn/psb?/V12aKRuu4cvTlT/vVFTWHR*NuRY92Gz8eusJJUTjQ0lN3nb9JLIOUYcYXQ!/b/dFMBAAAAAAAA&bo=6QK7AAAAAAADB3I!&rf=viewer_4)   
+  调用sympy函数库，即输入:form sympy import *  (回车键)
 然后输入：x = Symbol('x') (回车键)  
 最后只需输入：limit(sqrt(x)**(1/sqrt(x)-1),x,1) (回车) 
 #### 结果显示为 E    
