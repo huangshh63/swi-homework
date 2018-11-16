@@ -4,16 +4,20 @@
 
 ### 1.$\sqrt{x}^\frac{1}{\sqrt(x)-1}$当x$\to$1时的极限. 
 
-启动winPython并输入命令:python  
-![启动](http://m.qpic.cn/psb?/V12aKRuu4cvTlT/vVFTWHR*NuRY92Gz8eusJJUTjQ0lN3nb9JLIOUYcYXQ!/b/dFMBAAAAAAAA&bo=6QK7AAAAAAADB3I!&rf=viewer_4)
+启动winPython并输入命令:python     
+
+  
+  ![启动](http://m.qpic.cn/psb?/V12aKRuu4cvTlT/vVFTWHR*NuRY92Gz8eusJJUTjQ0lN3nb9JLIOUYcYXQ!/b/dFMBAAAAAAAA&bo=6QK7AAAAAAADB3I!&rf=viewer_4)
 调用sympy函数库，即输入:form sympy import *  (回车键)
 然后输入：x = Symbol('x') (回车键)  
 最后只需输入：limit(sqrt(x)**(1/sqrt(x)-1),x,1) (回车) 
-#### 结果显示为 E ![高数1](http://m.qpic.cn/psb?/V12aKRuu4cvTlT/NurBqzZFIlfEw1gi4ybnWTl1yMzFqEkFoG*70o1ektY!/b/dDEBAAAAAAAA&bo=hgECAYYBAgEDGTw!&rf=viewer_4) 
+#### 结果显示为 E    
+![高数1](http://m.qpic.cn/psb?/V12aKRuu4cvTlT/NurBqzZFIlfEw1gi4ybnWTl1yMzFqEkFoG*70o1ektY!/b/dDEBAAAAAAAA&bo=hgECAYYBAgEDGTw!&rf=viewer_4) 
  ### 2.求y=$\frac{1-x}{1+x}$的微分
 输入：integrate((1-x)/(1+x),x)(回车)
-![高数2](http://m.qpic.cn/psb?/V12aKRuu4cvTlT/0HD4K8GLHcQHxWWsA5JqoPsqvdAqJjRc1M*G6aVn22E!/b/dDcBAAAAAAAA&bo=hgECAYYBAgEDGTw!&rf=viewer_4)
-[LaTeX表示数学符号](http://mohu.org/info/symbols/symbols.htm)    
+![高数2](http://m.qpic.cn/psb?/V12aKRuu4cvTlT/0HD4K8GLHcQHxWWsA5JqoPsqvdAqJjRc1M*G6aVn22E!/b/dDcBAAAAAAAA&bo=hgECAYYBAgEDGTw!&rf=viewer_4)   
+  
+  [LaTeX表示数学符号](http://mohu.org/info/symbols/symbols.htm)    
 [一份不太简短的 LATEX 2ε 介绍](http://202.116.81.74/cache/9/03/www.mohu.org/a563578b882a238082752429e17e2a84/lshort-cn.pdf)
 
 ## 二·线性代数  
@@ -35,7 +39,7 @@
   numpy.linalg.inv() 函数计算矩阵的乘法逆矩阵
     
     注释：逆矩阵（inverse matrix）：设A是数域上的一个n阶矩阵，若在相同数域上存在另一个n阶矩阵B，使得： AB=BA=E ，则我们称B是A的逆矩阵，而A则被称为可逆矩阵。注：E为单位矩阵   
-  [Numpy 线性代数](http://www.runoob.com/numpy/numpy-linear-algebra.html)   
+    
   ### 2 
   矩阵相乘  
   A=$$
