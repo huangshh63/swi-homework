@@ -53,14 +53,15 @@
      $$    
 
 B=$$
-     \left[
-     \begin{matrix}
+     \left[  
+       \begin{matrix}
       3 & -2\\
      -2 & 1
 
-     \end{matrix}
-     \right]\tag{3}
-     $$
+  \end{matrix}
+    
+  \right]\tag{3}
+    $$
 AB=?  
 numpy.dot() 对于两个一维的数组，计算的是这两个数组对应下标元素的乘积和(数学上称之为内积)；对于二维数组，计算的是两个数组的矩阵乘积；对于多维数组，它的通用计算公式如下，即结果数组中的每个元素都是：数组a的最后一维上的所有元素与数组b的倒数第二位上的所有元素的乘积和： dot(a, b)[i,j,k,m] = sum(a[i,j,:] * b[k,:,m])  
 ![线代2](http://m.qpic.cn/psb?/V12aKRuu4cvTlT/1fEesVl3GFqrm1G2sfrwRAP0xvtyQ1a38U9Y1mWhTS4!/b/dDcBAAAAAAAA&bo=3gEaAd4BGgEDGTw!&rf=viewer_4)  
