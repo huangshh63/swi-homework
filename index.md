@@ -10,8 +10,8 @@
 6. [06-Computing Components](hw06)
 7. [07-Programming Barely](hw07)  
 8. [08-作业](hwo8)
-9. [09-作业](hw09)
-10.[10-排序](hw10)
+9. [09-作业](hw09)  
+10. [10-排序](hw10)
 
 ## 实验与实践
 
