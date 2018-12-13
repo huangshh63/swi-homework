@@ -10,7 +10,7 @@
 
     void snakemove(int a,int b);//move (up down left right)  
     void putmoney(void);//put a food randomly on a blank cell
-    void output(void);//outs when game over
+    void output(void);//put out
     int gameover(void);//end the game 
 
     char map[12][13]={"************",
@@ -26,7 +26,7 @@
 				  "*          *",
 				  "************"};
 
-    int snake_length=5;
+    int len=5;// 蛇的长度 
 
     int y[20]={1,2,3,4,5};	//蛇的坐标	
     int x[20]={1,1,1,1,1};		
@@ -74,26 +74,27 @@
 	
      int i;
    
-     for(i=0;i<5;i++){
+     for(i=0;i<len;i++){
    	   map[x[i]][y[i]]=' ';//把原先的HHHHX变为空 
     }
    
-    for(i=0;i<4;i++){
+   
+    for(i=0;i<len-1;i++){
    	  x[i]=x[i+1];   //除头部以外 每一位的位置是上一位的位置 
 	  y[i]=y[i+1]; 
-     }
+      }
    
-	  x[4]+=a;//头部移动（上，下，左，右） 
-	  y[4]+=b;
+	  x[len-1]+=a;//头部移动（上，下，左，右） 
+	  y[len-1]+=b;
     }
     void output(void){
      int i;
   
-     for(i=0;i<4;i++){
+     for(i=0;i<len;i++){
    	   map[x[i]][y[i]]='X';
      }
      
-     map[x[4]][y[4]]='H';//重新赋予HHHHX 
+     map[x[len-1]][y[len-1]]='H';//重新赋予HHHHX 
      
 	 system("cls"); //from help from others(清屏操作)
      
@@ -101,18 +102,18 @@
   	   printf("%s\n",map[i]);//输出 
      } 
     }  
+
     int gameover(void){
 	int i;
 	
-	for(i=0;i<4;i++){
-	  if(x[4]==x[i]&&y[4]==x[i])//蛇撞到自己，必有坐标重复 
+	for(i=0;i<len-1;i++){
+	  if(x[len-1]==x[i]&&y[len-1]==x[i])//蛇撞到自己，必有坐标重复 
 	  	  return 1;
     }
     
-	if(x[4]<=10&&x[4]>=1&&y[4]<=10&&y[4]>=1)//蛇的坐标未过界 
+	if(x[len-1]<=10&&x[len-1]>=1&&y[len-1]<=10&&y[len-1]>=1)//蛇的坐标未过界 
 	  return 0;
 	else
 	  return 1;
 	
     }
- 
