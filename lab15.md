@@ -236,7 +236,17 @@ sin-demo.c 的代码。（这里仅是转抄，方便你复制）
 
      $ gcc sin-demo.c -osin.out -lm
      $ ./sin.out
+  
+    
+      
+
+
+
 ![sin](http://m.qpic.cn/psb?/V12aKRuu4cvTlT/OKzENi..kBFyqLHqHOB5isotTamcd3tKlYLGVkO6sR0!/b/dAgBAAAAAAAA&bo=swH1ALMB9QACGT0!&rf=viewer_4)    
+  
+    
+      
+        
 运行成功 
 ## 2、实现 kbhit()
 
@@ -344,7 +354,9 @@ sin-demo.c 的代码。（这里仅是转抄，方便你复制）
 
      $ gcc tty.c -otty.out
      $ ./tty.out  
-运行成功
+  
+  
+  运行成功
 ![tty](http://m.qpic.cn/psb?/V12aKRuu4cvTlT/Chl8X0dJeaN*DQeFxZmpsSGhQqwi6POu4j7DQIb.EhE!/b/dL0AAAAAAAAA&bo=iQKhAYkCoQECWX0!&rf=viewer_4)  
 ![tty.jig](http://m.qpic.cn/psb?/V12aKRuu4cvTlT/iieKpICyADxhLiRnpmMLoFVc1tck.Oc0z.bFd5fndvo!/b/dL0AAAAAAAAA&bo=yAMTAsgDEwIDCSw!&rf=viewer_4)   
   ## 编写智能算法  
