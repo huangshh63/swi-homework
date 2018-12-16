@@ -234,8 +234,8 @@ sin-demo.c 的代码。（这里仅是转抄，方便你复制）
     
 编译运行它：
 
-1.$ gcc sin-demo.c -osin.out -lm  
-2.$ ./sin.out
+gcc sin-demo.c -osin.out -lm    
+./sin.out
   
     
       
@@ -352,8 +352,8 @@ sin-demo.c 的代码。（这里仅是转抄，方便你复制）
     }    
 请先编译运行它：
 
-1.$ gcc tty.c -otty.out   
-2.$ ./tty.out  
+gcc tty.c -otty.out   
+./tty.out  
   
   
   #### 运行成功
