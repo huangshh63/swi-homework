@@ -359,9 +359,8 @@ $ ./tty.out
   #### 运行成功
 ![tty](http://m.qpic.cn/psb?/V12aKRuu4cvTlT/Chl8X0dJeaN*DQeFxZmpsSGhQqwi6POu4j7DQIb.EhE!/b/dL0AAAAAAAAA&bo=iQKhAYkCoQECWX0!&rf=viewer_4)  
 ![tty.jig](http://m.qpic.cn/psb?/V12aKRuu4cvTlT/iieKpICyADxhLiRnpmMLoFVc1tck.Oc0z.bFd5fndvo!/b/dL0AAAAAAAAA&bo=yAMTAsgDEwIDCSw!&rf=viewer_4)  
-如是 
-   
- ## 编写智能算法
+如是r
+## 编写智能算法
  编写人工智能程序，  
  使得 snake 每秒自动走一步。
 
