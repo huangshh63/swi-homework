@@ -1,7 +1,7 @@
-## 互联网时代的盈利模式
+# 互联网时代的盈利模式
 ### 流量 -重要途径
 ##### 流量，通常指互联网用户。流量是产生消费的重要因素。一般来讲，流量越大，可能产生的消费越多。在互联网营销中，将虚拟的流量转化为真实的收入，是一种基础的盈利模式  
-![流量](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1545840357930&di=ad672e699661854a5f46da2753e5e28f&imgtype=0&src=http%3A%2F%2Fimg.mp.itc.cn%2Fupload%2F20161111%2F612aa4b14d9d4c72a6b1fa219f3c8f15_th.jpg)  
+![流量](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1545840357930&di=ad672e699661854a5f46da2753e5e28f&imgtype=0&src=http%3A%2F%2Fimg.mp.itc.cn%2Fupload%2F20161111%2F612aa4b14d9d4c72a6b1fa219f3c8f15_th.jpg)![internet](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1545846336008&di=d953ea545853675011298fa1699ff2db&imgtype=0&src=http%3A%2F%2Fhimg2.huanqiu.com%2Fattachment2010%2F2016%2F0914%2F20160914095738423.jpg)  
 ### 流量变现模式 
 #### 1·广告
 ##### 在线广告  
