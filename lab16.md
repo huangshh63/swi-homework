@@ -34,6 +34,8 @@
  ![douyin](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1545845029573&di=6eb5ab4fe7fba1f831acdc25548d13c4&imgtype=0&src=http%3A%2F%2Fn.sinaimg.cn%2Fsinacn21%2F200%2Fw600h400%2F20180710%2Fda09-hfefkqp7825644.jpg) 
 ### [抖音是如何实现盈利的?](http://wemedia.ifeng.com/64181226/wemedia.shtm)   ![shikeshipin](http://m.qpic.cn/psb?/V12aKRuu4cvTlT/Sc3auRpXMOQ94lzZHXjigdKGw*hrnBKXkkps318xkgE!/b/dL8AAAAAAAAA&bo=sAJUA7ACVAMDCSw!&rf=viewer_4)
 ### [时刻视频上线，微信在下一步多大的棋？](http://www.sohu.com/a/284482498_100089499)
+![tenxun](https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3791255485,2770457732&fm=26&gp=0.jpg)
+### [腾讯二十年：成就生态,流量之王转身产业互联网](https://tech.sina.com.cn/i/2018-12-10/doc-ihprknvu0194490.shtml)
 
 
    
