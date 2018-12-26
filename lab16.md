@@ -24,10 +24,15 @@
 ![tenxun](http://m.qpic.cn/psb?/V12aKRuu4cvTlT/NLlOGK023NedbROZXHJ7nO4CUgAp.vabH.3kUBAT9a4!/b/dL8AAAAAAAAA&bo=IQVUAiEFVAIRCT4!&rf=viewer_4)  
 ### 小结  
 互联网盈利与流量密切相关，以流量为中心，还有很多盈利方式。  
-![互联网盈利方式](https://pic3.zhimg.com/0dbcbed74ad6fb4a23ffc7f262bc715e_r.jpg)
+![互联网盈利方式](https://pic3.zhimg.com/0dbcbed74ad6fb4a23ffc7f262bc715e_r.jpg)  
+
+
+![facebook](http://b304.photo.store.qq.com/psb?/V12aKRuu4cvTlT/6e9QnG3UjDfiRbANznw3rOjJ*aooROEISp4Rwf0TSAo!/b/dDABAAAAAAAA&bo=WAJ3AQAAAAARBxw!&rf=viewer_4)
 [Facebook 的盈利模式是什么?](http://www.iyunying.org/seo/sjfx/129780.html)   
+![youtobe](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3hA6yDZDAIHNjvwbK0z1qaPKvS2wDKhCuZe6tnIz3eKmSJRqE)
 [YouTube 的盈利模式](http://www.360doc.com/content/14/0609/08/16891239_384986130.shtml)  
-[抖音是如何实现盈利的?](http://wemedia.ifeng.com/64181226/wemedia.shtm)      
+ ![douyin](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1545845029573&di=6eb5ab4fe7fba1f831acdc25548d13c4&imgtype=0&src=http%3A%2F%2Fn.sinaimg.cn%2Fsinacn21%2F200%2Fw600h400%2F20180710%2Fda09-hfefkqp7825644.jpg) 
+[抖音是如何实现盈利的?](http://wemedia.ifeng.com/64181226/wemedia.shtm)   ![shikeshipin](http://m.qpic.cn/psb?/V12aKRuu4cvTlT/Sc3auRpXMOQ94lzZHXjigdKGw*hrnBKXkkps318xkgE!/b/dL8AAAAAAAAA&bo=sAJUA7ACVAMDCSw!&rf=viewer_4)
 [时刻视频上线，微信在下一步多大的棋？](http://www.sohu.com/a/284482498_100089499)
 
 
