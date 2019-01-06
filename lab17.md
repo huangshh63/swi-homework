@@ -3,7 +3,8 @@
 #### 人工智能（英语：Artificial Intelligence，缩写为AI）亦称机器智能，指由人制造出来的机器所表现出来的智能。通常人工智能是指通过普通计算机程序的手段实现的人类智能技术。该词也指出研究这样的智能系统是否能够实现，以及如何实现。同时，人类的无数职业也逐渐被其取代。
 
 
-![AI](http://seopic.699pic.com/photo/50069/0788.jpg_wh1200.jpg)
+![AI](http://seopic.699pic.com/photo/50069/0788.jpg_wh1200.jpg)  
+
  ### 5G是第5代移动网络其作用将远超前几代网络。5G 将提升移动网络的作用，不仅让人与人之间互联，更让机器、物体和终端之间互联互控。它将实现更高水平的性能和效率，赋予新的用户体验和连接新的行业。5G 将提供高达数 Gbps 的峰值速率、超低延迟、巨大容量以及更加统一的用户体验。如需有关 5G 的最新资讯，请访问我们的 5G 网站。
  ![5G](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1546782863578&di=7e4dbe0dff219236c3127498136b7a5c&imgtype=0&src=http%3A%2F%2Fimg0.pconline.com.cn%2Fpconline%2F1901%2F06%2F12197736_b2be552c10dd472da6d056c20e31d5c4.jpeg) 
  ![5G](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1546782863578&di=2520044f360f98438063eba6b08d8d8e&imgtype=0&src=http%3A%2F%2Fimg1.gtimg.com%2Fcq%2Fpics%2Fhv1%2F15%2F197%2F2300%2F149607750.jpg)
