@@ -1,0 +1,34 @@
+
+h1{
+color: #a4a400;
+background-color:#F0F0F0;
+font-family:Century ;
+font: size 22pt;
+text-align: center;
+text-decoration: underline;
+}
+h2{
+color: #a4a400;
+background-color:#F0F0F0;
+font-family: Verdana;
+font: size 18pt;
+text-align:left ;
+text-decoration: underline;
+}
+body{
+    widows: 1024px;
+    background-color:white;
+    font-family:Georgia;
+    color: #404040;
+    font: size 11pt;
+    background-image: url("silverware.jpg");
+    background-attachment: fixed;
+    background-repeat: 
+}
+#c{
+    color: #a4a400;
+}
+#b{
+    font-style: italic;
+    background-color:#FFFFC8;
+}
